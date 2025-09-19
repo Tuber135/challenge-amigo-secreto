@@ -16,3 +16,6 @@ Una aplicación web interactiva para organizar sorteos de "Amigo Secreto". Permi
 
 Este proyecto demuestra la implementación de conceptos fundamentales de desarrollo web frontend, incluyendo manipulación del DOM, manejo de eventos, y generación de números aleatorios. Es una aplicación práctica que resuelve una necesidad real de manera sencilla y efectiva.
 
+## Captura de pantalla
+
+<img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/f9286cd2-2a29-4db8-b523-d5ea8f250f51" />
